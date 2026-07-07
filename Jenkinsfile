@@ -11,7 +11,7 @@ pipeline {
             
             steps {
                 // Get some code from a GitHub repository
-git branch: 'main', url: 'https://github.com/syedumarfarooq/Day1'
+git branch: 'main', url: 'https://github.com/syedumarfarooq/Day12'
                 // Run the build on a Unix agent. You must have Maven installed.
                 
 
